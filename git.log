@@ -1,0 +1,6 @@
+f826d5d Merge branch 'feature-1'.
+942f0dd Merge branch 'bugfix' into feature-1
+8409d8b Fix bug with .gitignore, added .idea
+899820f Say some Hello
+b9de151 Set .gitignore
+33f6247 Init repo with readme
